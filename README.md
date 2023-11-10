@@ -25,6 +25,7 @@ I am always eager to learn and stay updated with the latest technologies. I acti
 ## 📈 GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blackjac7&show_icons=true&count_private=true)](https://github.com/blackjac7)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackjac7&layout=compact)
 
 ## 🤝 Let's Connect
 
