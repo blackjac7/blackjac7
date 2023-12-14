@@ -12,10 +12,9 @@ I'm a passionate Full-Stack JavaScript Developer based in Indonesia. With a stro
 ## 🚀 What I Do
 
 - Develop robust and scalable back-end servers using Node.js and Express.js.
-- Design and implement databases with PostgreSQL and MongoDB.
-- Create interactive and responsive front-end applications using Vue.js and React.js.
-- Build cross-platform mobile apps with React Native and Flutter.
-- Fluent in other programming languages such as Java, Python, and C++.
+- Design and implement databases with PostgreSQL.
+- Create interactive and responsive front-end applications using EJS, JQuery and Vue.js.
+- Know in other programming languages such as Java, Python, Goalng, and C++.
 
 ## 🌱 Learning & Improving
 
