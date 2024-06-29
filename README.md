@@ -4,16 +4,17 @@ I'm a passionate Full-Stack JavaScript Developer based in Indonesia. With a stro
 
 ## 💻 Technologies & Tools
 
+- **SCRUM-Tools:** Clickup
 - **UI/UX:** Figma
 - **Back-end:** Node.js, Express.js
 - **Databases:** PostgreSQL
-- **Front-end:** JQuery, Vue.js
+- **Front-end:** JQuery, Vue.js, React.js
 
 ## 🚀 What I Do
 
 - Develop robust and scalable back-end servers using Node.js and Express.js.
 - Design and implement databases with PostgreSQL.
-- Create interactive and responsive front-end applications using EJS, JQuery and Vue.js.
+- Create interactive and responsive front-end applications.
 
 ## 🌱 Learning & Improving
 
@@ -23,6 +24,8 @@ I am always eager to learn and stay updated with the latest technologies. I acti
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blackjac7&show_icons=true&count_private=true)](https://github.com/blackjac7)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackjac7&layout=compact)
+
+[![wakatime](https://wakatime.com/badge/user/d58c5d8f-1569-40f0-b030-fd238458ca8d.svg)](https://wakatime.com/@d58c5d8f-1569-40f0-b030-fd238458ca8d)
 
 ## 🤝 Let's Connect
 
