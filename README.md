@@ -25,7 +25,10 @@ I am always eager to learn and stay updated with the latest technologies. I acti
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blackjac7&show_icons=true&count_private=true)](https://github.com/blackjac7)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackjac7&layout=compact)
 
-[![wakatime](https://wakatime.com/badge/user/d58c5d8f-1569-40f0-b030-fd238458ca8d.svg)](https://wakatime.com/@d58c5d8f-1569-40f0-b030-fd238458ca8d)
+[![wakatime](https://wakatime.com/badge/user/d58c5d8f-1569-40f0-b030-fd238458ca8d.svg)](https://wakatime.com/@d58c5d8f-1569-40f0-b030-fd238458ca8d) ![Full Stack JavaScript Developer](https://img.shields.io/badge/Full_Stack-JavaScript_Developer-yellow) ![Express.js](https://img.shields.io/badge/Express.js-Intermediate-green) ![React.js](https://img.shields.io/badge/React.js-Intermediate-blue)
+
+
+
 
 ## 🤝 Let's Connect
 
