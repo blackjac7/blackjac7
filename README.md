@@ -8,7 +8,7 @@ I'm a passionate Full-Stack JavaScript Developer based in Indonesia. With a stro
 - **UI/UX:** Figma
 - **Back-end:** Node.js, Express.js
 - **Databases:** PostgreSQL
-- **Front-end:** JQuery, Vue.js, React.js
+- **Front-end:** React.js
 
 ## 🚀 What I Do
 
