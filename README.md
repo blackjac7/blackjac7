@@ -8,7 +8,7 @@ I'm a passionate Full-Stack JavaScript Developer based in Indonesia. With a stro
 - **UI/UX:** Figma
 - **Back-end:** Node.js, Express.js
 - **Databases:** PostgreSQL
-- **Front-end:** React.js
+- **Front-end:** React.js, Next.js
 
 ## 🚀 What I Do
 
@@ -25,7 +25,8 @@ I am always eager to learn and stay updated with the latest technologies. I acti
 ![GitHub Stats](https://github-readme-stats-new-gamma.vercel.app/api?username=blackjac7&show_icons=true&count_private=true)
 ![Top Langs](https://github-readme-stats-new-gamma.vercel.app/api/top-langs/?username=blackjac7&layout=compact)
 
-[![wakatime](https://wakatime.com/badge/user/d58c5d8f-1569-40f0-b030-fd238458ca8d.svg)](https://wakatime.com/@d58c5d8f-1569-40f0-b030-fd238458ca8d) ![Full Stack JavaScript Developer](https://img.shields.io/badge/Full_Stack-JavaScript_Developer-yellow) ![Express.js](https://img.shields.io/badge/Express.js-Intermediate-green) ![React.js](https://img.shields.io/badge/React.js-Intermediate-blue)
+[![wakatime](https://wakatime.com/badge/user/d58c5d8f-1569-40f0-b030-fd238458ca8d.svg)](https://wakatime.com/@d58c5d8f-1569-40f0-b030-fd238458ca8d) ![Full Stack JavaScript Developer](https://img.shields.io/badge/Full_Stack-JavaScript_Developer-yellow) ![Express.js](https://img.shields.io/badge/Express.js-Intermediate-green) ![React.js](https://img.shields.io/badge/React.js-Intermediate-blue) ![Next.js](https://img.shields.io/badge/Next.js-Intermediate-purple
+)
 
 
 
