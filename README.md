@@ -22,7 +22,7 @@ I am always eager to learn and stay updated with the latest technologies. I acti
 
 ## 📈 GitHub Stats
 
-[[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=blackjac7&show_icons=true)](https://github-stats-extended.vercel.app/api?username=blackjac7&show_icons=true)](https://github-stats-extended.vercel.app/api?username=blackjac7&show_icons=true&theme=swift)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=blackjac7&show_icons=true&theme=swift)](https://github-stats-extended.vercel.app/api?username=blackjac7&show_icons=true&theme=swift)
 ![Top Langs](https://github-readme-stats-new-gamma.vercel.app/api/top-langs/?username=blackjac7&layout=compact)
 
 
